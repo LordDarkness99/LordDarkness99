@@ -3,7 +3,7 @@
 🎓 IT Education Student at Universitas Negeri Surabaya  
 💻 Passionate about **Cybersecurity** & **AI-based Environmental Tech**  
 🚀 Currently developing: "AI-Based Plastic Waste Monitoring App"  
-📫 Reach me at: [LinkedIn](https://linkedin.com/in/username) | [Email](mailto:email@example.com)
+📫 Reach me at: [LinkedIn](www.linkedin.com/in/nizar-alif-ramadhan-5ba1a2315) | [Email](genshinhs12@gmail.com)
 
 ---
 
@@ -16,10 +16,11 @@
 ---
 
 ### 📊 GitHub Stats
-![Nizar's GitHub stats](https://github-readme-stats.vercel.app/api?username=nizaraliframadhan&show_icons=true&theme=tokyonight)
+![Nizar's GitHub stats](https://github-readme-stats.vercel.app/api?username=LordDarkness99&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nizaraliframadhan&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LordDarkness99&layout=compact&theme=tokyonight)
 
+![Visitors](https://komarev.com/ghpvc/?username=LordDarkness99&color=blue)
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00BFFF&lines=Hi!+I'm+Nizar+Alif+Ramadhan;Cybersecurity+and+AI+Enthusiast;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
