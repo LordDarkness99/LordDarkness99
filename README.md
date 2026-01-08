@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nizar Alif Ramadhan!
 
 🎓 IT Education Student at Universitas Negeri Surabaya  
-💻 Passionate about **Cybersecurity** & **AI-based Environmental Tech**  
+💻 Passionate about **AI-based Environmental Tech**  
 🚀 Currently developing: "AI-Based Plastic Waste Monitoring App"  
 📫 Reach me at: [LinkedIn](www.linkedin.com/in/nizar-alif-ramadhan-5ba1a2315) | [Email](genshinhs12@gmail.com)
 
