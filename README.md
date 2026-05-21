@@ -33,9 +33,9 @@ My interests include:
 ---
 
 ### 🚀 Featured Project
-#### AI-Based Plastic Waste Monitoring App
-An intelligent application designed to help monitor, detect, and analyze plastic waste using AI and computer vision.  
-The project aims to support environmental awareness and improve waste management through technology.
+#### AI-Based Face Recognition Attendance System
+An intelligent web-based attendance system that uses AI and computer vision to detect and recognize faces automatically.  
+The project aims to improve attendance efficiency, reduce fraud, and provide a modern digital attendance solution through facial recognition technology.
 
 ---
 
