@@ -2,7 +2,7 @@
 
 🎓 Information Technology Education Student at Universitas Negeri Surabaya  
 🤖 Passionate about **Artificial Intelligence, Machine Learning, and Computer Vision**  
-🌱 Currently building: **AI-Based Plastic Waste Monitoring App**  
+🌱 Currently building: **Web Attendance with Face Recognition**  
 🔍 Focused on creating intelligent solutions for real-world problems  
 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/nizar-alif-ramadhan-5ba1a2315) | [Email](mailto:genshinhs12@gmail.com)
 
