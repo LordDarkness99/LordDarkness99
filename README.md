@@ -129,12 +129,10 @@ Aplikasi web deteksi dini **22 jenis penyakit kulit** dari foto menggunakan Mobi
 
 <!-- Ganti "github-readme-stats.vercel.app" dengan instance Vercel milikmu sendiri
      agar kartu di bawah selalu tampil (instance publik sering kena rate limit). -->
-
 <p align="center">
-  <img src="https://img.shields.io/github/followers/LordDarkness99?style=for-the-badge&logo=github&color=00BFFF" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/LordDarkness99?style=for-the-badge&logo=github&color=00BFFF" alt="Stars" />
-  <img src="https://img.shields.io/github/repos/LordDarkness99?style=for-the-badge&logo=github&color=00BFFF" alt="Repositories" />
+  <img src="https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?q=80&w=1000&auto=format&fit=crop" width="100%" style="border-radius: 15px;" alt="Night Sky Landscape" />
 </p>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LordDarkness99&theme=tokyonight" alt="Top Languages" />
 <br/><br/>
 
