@@ -34,7 +34,7 @@ class Nizar:
         self.role     = "Information Technology Education Student"
         self.campus   = "Universitas Negeri Surabaya"
         self.focus    = ["Machine Learning", "Deep Learning", "Computer Vision"]
-        self.building = "Web Attendance with Face Recognition"
+        self.building = "Projekct with ai model"
         self.mission  = "AI for environmental, educational & social impact"
 
     def say_hi(self):
