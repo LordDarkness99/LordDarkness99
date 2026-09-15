@@ -132,7 +132,6 @@ Aplikasi web deteksi dini **22 jenis penyakit kulit** dari foto menggunakan Mobi
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=LordDarkness99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LordDarkness99&theme=tokyonight" alt="Top Languages" />
-
 <br/><br/>
 
 **Contribution Graph**
