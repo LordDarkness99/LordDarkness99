@@ -77,6 +77,7 @@ class Nizar:
 **AI / ML & Data**
 
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,anaconda&theme=dark" />
+<br/><br/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
@@ -120,33 +121,28 @@ Aplikasi web deteksi dini **22 jenis penyakit kulit** dari foto menggunakan Mobi
 
 <div align="center">
 
-<p>Berikut adalah ringkasan aktivitas kontribusi GitHub saya secara real-time:</p>
+<img src="https://img.shields.io/github/followers/LordDarkness99?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=0D1117&color=00BFFF" alt="Followers" />
+<img src="https://img.shields.io/github/stars/LordDarkness99/LordDarkness99?style=for-the-badge&logo=github&label=STARS&labelColor=0D1117&color=00BFFF" alt="Stars" />
+<img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20COMPUTER%20VISION-00BFFF?style=for-the-badge&labelColor=0D1117" alt="Focus" />
 
-<p>
-  <a href="https://github.com/LordDarkness99">
-    <img src="https://img.shields.io/github/commits-since/LordDarkness99/LordDarkness99/latest?style=for-the-badge&color=00BFFF&label=Contributions&logo=github" alt="Contributions" />
-  </a>
-  <a href="https://github.com/LordDarkness99?tab=repositories">
-    <img src="https://img.shields.io/github/repos/LordDarkness99?style=for-the-badge&color=00BFFF&label=Repositories&logo=github" alt="Repositories" />
-  </a>
-  <a href="https://github.com/LordDarkness99?tab=followers">
-    <img src="https://img.shields.io/github/followers/LordDarkness99?style=for-the-badge&color=00BFFF&label=Followers&logo=github" alt="Followers" />
-  </a>
-</p>
+<br/><br/>
 
-<br/>
+<!-- Ganti "github-readme-stats.vercel.app" dengan instance Vercel milikmu sendiri
+     agar kartu di bawah selalu tampil (instance publik sering kena rate limit). -->
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=LordDarkness99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=LordDarkness99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordDarkness99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&langs_count=6&cache_seconds=86400" alt="Top Languages" />
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordDarkness99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&langs_count=6" alt="Top Languages" />
-</p>
+<br/><br/>
+
+**Contribution Graph**
+
+<img width="85%" src="https://ghchart.rshah.org/00BFFF/LordDarkness99" alt="Contribution Chart" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/line-neon.gif" width="100%" alt="divider" />
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/line-neon.gif" width="100%">
+
 <!-- ═══════════════════ QUOTE ═══════════════════ -->
 <div align="center">
 
