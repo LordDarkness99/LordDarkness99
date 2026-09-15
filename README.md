@@ -118,14 +118,37 @@ Aplikasi web deteksi dini **22 jenis penyakit kulit** dari foto menggunakan Mobi
 <!-- ═══════════════════ STATS ═══════════════════ -->
 ## 📊 &nbsp;GitHub Analytics
 
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=LordDarkness99&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00BFFF&amp;icon_color=00BFFF&amp;include_all_commits=true&amp;count_private=true&amp;cache_seconds=1800" alt="GitHub Stats" /><img height="165" src="https://streak-stats.demolab.com/?user=LordDarkness99&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=00BFFF&amp;fire=00BFFF&amp;currStreakLabel=00BFFF" alt="GitHub Streak" />
+<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordDarkness99&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00BFFF&amp;langs_count=8&amp;cache_seconds=1800" alt="Top Languages" />
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=LordDarkness99&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00BFFF&amp;icon_color=00BFFF&amp;include_all_commits=true&amp;count_private=true&amp;cache_seconds=1800"
+       alt="GitHub Stats" />
 
+  <img height="165"
+       src="https://streak-stats.demolab.com/?user=LordDarkness99&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=00BFFF&amp;fire=00BFFF&amp;currStreakLabel=00BFFF"
+       alt="GitHub Streak" />
 
+  <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=LordDarkness99&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0D1117&amp;color=00BFFF&amp;line=00BFFF&amp;point=FFFFFF&amp;area=true" alt="Activity Graph" />
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=LordDarkness99&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=10" alt="Trophies" /></div><img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/line-neon.gif" width="100%" alt="divider" /><!-- ═══════════════════ QUOTE ═══════════════════ --><div align="center">
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordDarkness99&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00BFFF&amp;langs_count=8&amp;cache_seconds=1800"
+       alt="Top Languages" />
+
+  <br/><br/>
+
+  <img width="95%"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=LordDarkness99&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0D1117&amp;color=00BFFF&amp;line=00BFFF&amp;point=FFFFFF&amp;area=true"
+       alt="Activity Graph" />
+
+  <br/>
+
+  <img width="95%"
+       src="https://github-profile-trophy.vercel.app/?username=LordDarkness99&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=10"
+       alt="Trophies" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/line-neon.gif" width="100%" alt="divider" />
 
 <!-- ═══════════════════ QUOTE ═══════════════════ -->
 <div align="center">
